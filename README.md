@@ -1,0 +1,2 @@
+# wizardWar
+sacMakers 101
